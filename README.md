@@ -34,9 +34,9 @@ Desenvolver um site institucional para uma empresa fictícia de jardinagem e pai
 
 ## Autores
 
-Laureen Heloá Ambrozio da Silva
-Lucas Gabriel de Carvalho de Oliveira
+- Laureen Heloá Ambrozio da Silva
+- Lucas Gabriel de Carvalho de Oliveira
 
 ## GitHub Pages
 
-...
+https://laureensilva76.github.io/Avalia--o-2/
